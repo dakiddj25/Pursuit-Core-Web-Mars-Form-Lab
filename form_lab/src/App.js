@@ -6,7 +6,7 @@ import Form from "./component/Form"
 function App() {
   return (
     <div>
-    <h1>Hello</h1>
+    <h1>Welcome</h1>
     <Form/>
 
     </div>
